@@ -1,0 +1,5 @@
+C:\Users\Coke\GIT\Decorator-Pattern\Decorator-Pattern\Decorator-Pattern\bin\Debug\Decorator-Pattern.exe
+C:\Users\Coke\GIT\Decorator-Pattern\Decorator-Pattern\Decorator-Pattern\bin\Debug\Decorator-Pattern.pdb
+C:\Users\Coke\GIT\Decorator-Pattern\Decorator-Pattern\Decorator-Pattern\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Coke\GIT\Decorator-Pattern\Decorator-Pattern\Decorator-Pattern\obj\x86\Debug\Decorator-Pattern.exe
+C:\Users\Coke\GIT\Decorator-Pattern\Decorator-Pattern\Decorator-Pattern\obj\x86\Debug\Decorator-Pattern.pdb
