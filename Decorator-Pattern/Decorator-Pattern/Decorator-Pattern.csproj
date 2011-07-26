@@ -52,6 +52,7 @@
     <Compile Include="Decorator\Milk.cs" />
     <Compile Include="Decorator\Mocha.cs" />
     <Compile Include="Decorator\Soy.cs" />
+    <Compile Include="Decorator\Whip.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Test\StarbuzzTest.cs" />

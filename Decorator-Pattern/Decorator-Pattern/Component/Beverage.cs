@@ -9,7 +9,7 @@ namespace Decorator_Pattern.Component
     {
         public String description = "Unkwown beverage";
 
-        public String getDescription()
+        public virtual String getDescription()
         {
             return description;
         }

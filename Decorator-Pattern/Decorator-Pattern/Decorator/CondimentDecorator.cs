@@ -8,6 +8,6 @@ namespace Decorator_Pattern.Decorator
 {
     public abstract class CondimentDecorator : Beverage
     {
-        public abstract String getDescription();
+
     }
 }
